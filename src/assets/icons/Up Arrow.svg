@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="16px" viewBox="0 0 30 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Icons/Up Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-681.000000, -1421.000000)" fill="#1B1E24">
+            <g id="Icons/Up-Arrow" transform="translate(681.000000, 1414.000000)">
+                <g id="Actian-Icon__Up-Arrow-" transform="translate(-1.500000, 6.000000)">
+                    <path d="M30.75,16.8 C30.5530363,16.808211 30.3619662,16.7317829 30.225,16.59 L16.65,3 L2.775,16.59 C2.63417505,16.7319845 2.44247815,16.8118487 2.2425,16.8118487 C2.04252185,16.8118487 1.85082495,16.7319845 1.71,16.59 C1.5689039,16.4517546 1.48939285,16.2625345 1.48939285,16.065 C1.48939285,15.8674655 1.5689039,15.6782454 1.71,15.54 L16.14,1.41 C16.4316326,1.12414284 16.8983674,1.12414284 17.19,1.41 L31.275,15.525 C31.4169845,15.6658249 31.4968487,15.8575218 31.4968487,16.0575 C31.4968487,16.2574782 31.4169845,16.4491751 31.275,16.59 C31.1380338,16.7317829 30.9469637,16.808211 30.75,16.8 Z" id="Path" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

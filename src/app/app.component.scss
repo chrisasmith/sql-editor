@@ -1,0 +1,58 @@
+:host  {
+  font-family: "Red Hat Text";
+  .container {
+    display: grid;
+
+    grid-template-areas:
+      "header"
+      "content";
+
+    grid-template-columns: 1fr;
+    grid-template-rows: 75px 1fr;
+    grid-gap: 0;
+
+    height: 100%;
+
+    header {
+      grid-area: header;
+      padding: 20px;
+      background: linear-gradient(154.7deg, #4CA7FF 0%, #0A30C5 100%);
+
+      .content {
+        display: flex;
+        flex-flow: row nowrap;
+        .logo {
+          flex: 1;
+
+          display: flex;
+          justify-content: flex-start;
+
+          height: 35px;
+          width: auto;
+          background: url('/assets/logos/avalanche_logo.svg');
+          background-repeat: no-repeat;
+
+        }
+        .center {
+          flex: 2;
+        }
+        .avatar {
+          flex: 1;
+
+          color: #FFFFFF;
+          font-size: 14px;
+          font-weight: 500;
+          letter-spacing: 0.09px;
+          line-height: 18px;
+          text-align: right;
+        }
+      }
+    }
+
+    main {
+      grid-area: content;
+      height: 100%;
+      overflow: hidden;
+    }
+  }
+}

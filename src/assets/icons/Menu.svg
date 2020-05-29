@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="18px" viewBox="0 0 30 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Icons/Menu</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-847.000000, -1012.000000)" fill="#1B1E24">
+            <g id="Icons/Menu" transform="translate(847.000000, 1006.000000)">
+                <g id="Actian-Icon__Menu" transform="translate(0.000000, 6.000000)">
+                    <path d="M29.25,2.25 L0.75,2.25 C0.335786438,2.25 0,1.91421356 0,1.5 C0,1.08578644 0.335786438,0.75 0.75,0.75 L29.25,0.75 C29.6642136,0.75 30,1.08578644 30,1.5 C30,1.91421356 29.6642136,2.25 29.25,2.25 Z M30,9 C30,8.58578644 29.6642136,8.25 29.25,8.25 L0.75,8.25 C0.335786438,8.25 0,8.58578644 0,9 C0,9.41421356 0.335786438,9.75 0.75,9.75 L29.25,9.75 C29.6642136,9.75 30,9.41421356 30,9 Z M30,16.5 C30,16.0857864 29.6642136,15.75 29.25,15.75 L0.75,15.75 C0.335786438,15.75 0,16.0857864 0,16.5 C0,16.9142136 0.335786438,17.25 0.75,17.25 L29.25,17.25 C29.6642136,17.25 30,16.9142136 30,16.5 Z" id="Shape" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="30px" viewBox="0 0 17 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Icons/Left Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-1026.000000, -904.000000)" fill="#1B1E24">
+            <g id="Icons/Left-Arrow" transform="translate(1021.000000, 904.000000)">
+                <g id="Actian-Icon__Left-Arrow" transform="translate(4.500000, 0.000000)">
+                    <path d="M16.05,30.0000525 C15.8510942,30.0024248 15.6604205,29.9207075 15.525,29.775 L1.41,15.36 C1.12414284,15.0683674 1.12414284,14.6016326 1.41,14.31 L15.525,0.225 C15.6658249,0.0830155119 15.8575218,0.00315125674 16.0575,0.00315125674 C16.2574782,0.00315125674 16.4491751,0.0830155119 16.59,0.225 C16.8758572,0.516632633 16.8758572,0.983367367 16.59,1.275 L3,14.85 L16.59,28.725 C16.801956,28.9412279 16.8631036,29.2636965 16.7450188,29.542508 C16.626934,29.8213194 16.3527816,30.0017786 16.05,30.0000525 Z" id="Path" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

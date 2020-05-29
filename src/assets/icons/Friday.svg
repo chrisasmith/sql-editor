@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="31px" viewBox="0 0 30 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Icons/Friday</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-1275.000000, -698.000000)" fill="#1B1E24">
+            <g id="Icons/Friday" transform="translate(1275.000000, 698.000000)">
+                <g id="Actian-Icon__Friday">
+                    <path d="M15,30.105 C6.71572875,30.105 0,23.3892712 0,15.105 C0,6.82072875 6.71572875,0.105 15,0.105 C23.2842712,0.105 30,6.82072875 30,15.105 C30,19.0832473 28.4196474,22.898556 25.6066017,25.7116017 C22.793556,28.5246474 18.9782473,30.105 15,30.105 Z M15,1.5 C7.54415588,1.5 1.5,7.54415588 1.5,15 C1.5,22.4558441 7.54415588,28.5 15,28.5 C22.4558441,28.5 28.5,22.4558441 28.5,15 C28.5,7.54415588 22.4558441,1.5 15,1.5 Z" id="Shape" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill-rule="nonzero" points="11.52 8.475 18.6 8.475 18.6 9.9 13.215 9.9 13.215 14.28 18.18 14.28 18.18 15.675 13.215 15.675 13.215 21.675 11.52 21.675"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

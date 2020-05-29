@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="16px" viewBox="0 0 15 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Icons/Status Badge</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-688.000000, -1319.000000)" fill="#1B1E24">
+            <g id="Icons/Status-Circle" transform="translate(680.500000, 1312.000000)">
+                <g id="Actian-Icon__Status-Color" transform="translate(7.500000, 7.500000)">
+                    <path d="M15,7.5 C15,11.6421356 11.6421356,15 7.5,15 C3.35786438,15 0,11.6421356 0,7.5 C0,3.35786438 3.35786438,0 7.5,0 C9.48912367,0 11.396778,0.790176303 12.8033009,2.19669914 C14.2098237,3.60322198 15,5.51087633 15,7.5 Z" id="Path" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

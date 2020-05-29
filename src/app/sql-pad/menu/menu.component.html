@@ -1,0 +1,41 @@
+<div class="db-menu">
+  <header>
+    <span class="title">
+      WAREHOUSE
+    </span>
+    <span class="sub-title">
+      Financing Team’s Warehouse - Production
+    </span>
+  </header>
+  <main>
+    <div class="input-container">
+      <input class="input-field" type="text" placeholder="Search tables" name="search">
+      <mat-icon svgIcon="search"></mat-icon>
+    </div>
+    <div class="db-tables-tree">
+      <div class="tree">
+        <ul class="items" id="myUL">
+          <li class="item">
+            <div class="controls">
+              <div class="toggle" (click)="toggleTreeOpen()">
+                <mat-icon svgIcon="database"></mat-icon>
+                <span class="caret">{{database.name}}</span>
+              </div>
+
+              <div class="plus">
+                <mat-icon svgIcon="blue-plus"></mat-icon>
+              </div>
+            </div>
+
+            <ul  [class]="openTree ? 'active' : 'nested'">
+              <li
+                *ngFor="let table of database.tables; let idx = index;"
+                [class]="table.selected ? 'selected' : ''"
+                (click)="getTableDetails( idx)">{{table.name}}</li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </main>
+</div>

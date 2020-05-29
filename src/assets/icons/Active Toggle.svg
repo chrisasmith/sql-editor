@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="18px" viewBox="0 0 32 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Toggles/Active Toggle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Tables" transform="translate(-514.000000, -1630.000000)">
+            <g id="Toggles/Active-Toggle" transform="translate(514.000000, 1630.000000)">
+                <g id="Rectangle">
+                    <rect stroke="#238FFB" fill="#238FFB" fill-rule="nonzero" x="0.5" y="0.5" width="31" height="17" rx="8.5"></rect>
+                    <rect stroke="#FFFFFF" fill="#FFFFFF" fill-rule="nonzero" x="16.5" y="2.5" width="13" height="13" rx="6.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

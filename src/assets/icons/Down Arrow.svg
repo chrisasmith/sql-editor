@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="16px" viewBox="0 0 30 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Icons/Down Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-1021.000000, -601.000000)" fill="#1B1E24">
+            <g id="Icons/Down-Arrow" transform="translate(1021.000000, 594.000000)">
+                <g id="Actian-Icon__Down-Arrow" transform="translate(0.000000, 6.000000)">
+                    <path d="M15.165,16.8 C14.9680363,16.808211 14.7769662,16.7317829 14.64,16.59 L0.225,2.475 C0.0839038992,2.33675462 0.00439284598,2.14753454 0.00439284598,1.95 C0.00439284598,1.75246546 0.0839038992,1.56324538 0.225,1.425 C0.36582495,1.28301551 0.557521848,1.20315126 0.7575,1.20315126 C0.957478152,1.20315126 1.14917505,1.28301551 1.29,1.425 L15.15,15 L28.65,1.41 C28.9416326,1.12414284 29.4083674,1.12414284 29.7,1.41 C29.8419845,1.55082495 29.9218487,1.74252185 29.9218487,1.9425 C29.9218487,2.14247815 29.8419845,2.33417505 29.7,2.475 L15.615,16.59 C15.4939058,16.710087 15.3348206,16.7843267 15.165,16.8 Z" id="Path" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

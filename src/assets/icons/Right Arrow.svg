@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="30px" viewBox="0 0 16 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Icons/Right Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-688.000000, -1210.000000)" fill="#1B1E24">
+            <g id="Icons/Right-Arrow-" transform="translate(681.000000, 1210.000000)">
+                <g id="Actian-Icon__Right-Arrow" transform="translate(6.000000, 0.000000)">
+                    <path d="M1.95,30.0000525 C1.64721844,30.0017786 1.37306603,29.8213194 1.2549812,29.542508 C1.13689636,29.2636965 1.19804403,28.9412279 1.41,28.725 L15,14.85 L1.41,1.275 C1.12414284,0.983367367 1.12414284,0.516632633 1.41,0.225 C1.55082495,0.0830155119 1.74252185,0.00315125674 1.9425,0.00315125674 C2.14247815,0.00315125674 2.33417505,0.0830155119 2.475,0.225 L16.59,14.31 C16.8758572,14.6016326 16.8758572,15.0683674 16.59,15.36 L2.475,29.775 C2.3395795,29.9207075 2.14890579,30.0024248 1.95,30.0000525 Z" id="Path" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
